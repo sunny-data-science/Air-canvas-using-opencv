@@ -1,0 +1,2 @@
+# Air-canvas-using-opencv
+Its a Air canvas project in which one can easily draw figures in space.It Start reading the frames and convert the captured frames to HSV colour space. Then prepare the canvas frame and preprocess the mask .Detect the contours, find the center coordinates of largest contour and keep storing them in the array for successive frames.Finally draw the points stored in array on the frames and canvas..
